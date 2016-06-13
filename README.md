@@ -1,7 +1,7 @@
 <a href="http://candy.wetgenes.com/"><img src="http://candy.wetgenes.com/data/logo_blue/logo_blue.png"/></a>
 <a href="http://candy.wetgenes.com/"><img src="http://candy.wetgenes.com/data/eg/eg.png"/></a>
 
-A cooperative board game for spooky individuals.
+A candy fueled cooperative board game for spooky individuals.
 
 **It should be noted that this is currently in active development so will contain bugs.**
 
